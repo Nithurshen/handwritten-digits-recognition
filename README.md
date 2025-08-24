@@ -1,4 +1,4 @@
-# Hand-written Digit Classifier (MNIST)
+# Handwritten Digit Classifier (MNIST)
 
 A minimal fully-connected neural network that reaches ≈98 % test accuracy on the classic MNIST digit-recognition task.
 
