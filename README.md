@@ -1,6 +1,6 @@
 # Handwritten Digit Classifier (MNIST)
 
-A minimal fully-connected neural network that reaches ≈98 % test accuracy on the classic MNIST digit-recognition task.
+A minimal fully-connected neural network that reaches ≈96.9 % test accuracy on the classic MNIST digit-recognition task.
 
 ## 1. Model architecture
 | Layer | Units | Activation |
